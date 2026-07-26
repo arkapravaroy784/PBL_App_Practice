@@ -1,3 +1,4 @@
+//Q4. A) Write a Java program to check whether a given integer is Positive, Negative, or Zero.
 import java.util.Scanner;
 
 class ass4 {
