@@ -1,3 +1,8 @@
+//Initialize a character variable in a Java program and:
+//•	Print "Alphabet" if the initialized value is an alphabet. 
+//•	Print "Digit" if the initialized value is a number. 
+//•	Print "Special Character" if the initialized value is anything else.
+
 class ass9 {
     public static void main(String[] args) {
 
