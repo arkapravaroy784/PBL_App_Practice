@@ -4,6 +4,7 @@
 //•	If the gender is Male and age is between 1 and 58, the interest is 8.4%. 
 //•	If the gender is Male and age is between 59 and 100, the interest is 10.5%. 
 
+
 class ass10 {
     public static void main(String[] args) {
 
