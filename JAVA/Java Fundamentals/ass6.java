@@ -1,4 +1,5 @@
 //Write a Java program to check whether a given integer number is Odd or Even.
+
 import java.util.Scanner;
 
 class ass6 {
