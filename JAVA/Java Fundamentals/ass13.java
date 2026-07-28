@@ -1,3 +1,7 @@
+//Write a Java program to receive a month number as a command-line argument and print the corresponding month name.
+//• If no command-line argument is provided, print: Please enter the month in numbers
+//• If the month number is not between 1 and 12, print: Invalid month
+
 class ass13 {
     public static void main(String[] args) {
 
