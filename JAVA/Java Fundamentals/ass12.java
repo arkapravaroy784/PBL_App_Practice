@@ -1,3 +1,13 @@
+//Write a Java program to receive a color code from the user (an alphabet).
+//The program should print the corresponding color name based on the following codes:
+//• R → Red
+//• B → Blue
+//• G → Green
+//• O → Orange
+//• Y → Yellow
+//• W → White
+//If the color code entered by the user is not valid, print: Invalid Code
+
 import java.util.Scanner;
 
 class ass12 {
