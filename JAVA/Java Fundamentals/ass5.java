@@ -1,4 +1,5 @@
 //Q4. B)Given two non-negative integer values, print true if they have the same last digit, otherwise print false.
+
 import java.util.Scanner;
 
 class ass5 {
