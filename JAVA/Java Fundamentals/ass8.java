@@ -1,4 +1,5 @@
 //Initialize two-character variables in a Java program and display the characters in alphabetical order.
+
 class ass8 {
     public static void main(String[] args) {
 
