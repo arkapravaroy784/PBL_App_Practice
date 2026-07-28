@@ -1,4 +1,5 @@
 //Write a Java program that accepts two Strings as command-line arguments and generates the output in the required format.
+
 class ass1 {
     public static void main(String[] args) {
 
