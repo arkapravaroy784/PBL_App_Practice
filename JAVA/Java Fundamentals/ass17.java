@@ -1,4 +1,5 @@
 //Write a Java program to print all prime numbers between 10 and 99.
+
 class ass17 {
     public static void main(String[] args) {
 
