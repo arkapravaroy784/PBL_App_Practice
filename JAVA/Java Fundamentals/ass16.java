@@ -1,3 +1,5 @@
+// Write a Java program to check whether a given number is Prime or Not Prime.
+
 import java.util.Scanner;
 
 class ass16 {
