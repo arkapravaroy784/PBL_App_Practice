@@ -1,4 +1,5 @@
 //Write a Java program to print * in Floyd's format (using for and while loops).
+
 class ass19 {
     public static void main(String[] args) {
 
