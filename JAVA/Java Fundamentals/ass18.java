@@ -1,3 +1,4 @@
+//Write a Java program to print the sum of all the digits of a given number.
 import java.util.Scanner;
 
 class ass18 {
