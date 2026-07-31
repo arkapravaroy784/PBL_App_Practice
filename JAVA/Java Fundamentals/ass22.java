@@ -1,3 +1,4 @@
+//Write a Java program to initialize an integer array and print the sum and average of the array elements.
 class ass22 {
     public static void main(String[] args) {
 
