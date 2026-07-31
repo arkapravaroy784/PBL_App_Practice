@@ -1,4 +1,5 @@
 // Write a Java program to initialize an integer array and find the maximum and minimum value of the array.
+
 class ass23 {
     public static void main(String[] args) {
 
