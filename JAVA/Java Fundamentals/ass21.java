@@ -1,3 +1,4 @@
+//Write a Java program to find whether a given number is a Palindrome or not.
 class ass21 {
     public static void main(String[] args) {
 
