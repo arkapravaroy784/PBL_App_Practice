@@ -1,4 +1,5 @@
 //Write a Java program to initialize an integer array and check if a given number is present in the array.
+
 • If the number is not found, print -1.
 • Otherwise, print the index of the given number in the array.
 class ass24 {
