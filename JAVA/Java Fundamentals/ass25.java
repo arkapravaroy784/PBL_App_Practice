@@ -1,3 +1,4 @@
+//Write a Java program to initialize an integer array with ASCII values and print the corresponding character values in a single row.
 class ass25 {
     public static void main(String[] args) {
 
