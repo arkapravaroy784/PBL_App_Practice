@@ -1,3 +1,6 @@
+//Write a Java program to print the sum of the elements of an array following the given condition:
+//• If the array contains 6 followed by 7, ignore 6, 7, and all the numbers between them while calculating the sum.
+//• Add only the remaining elements.
 class ass29 {
     public static void main(String[] args) {
 
