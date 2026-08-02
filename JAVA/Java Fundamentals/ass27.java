@@ -1,4 +1,4 @@
-
+// Write a Java program to initialize an integer array and print the elements in sorted order.
 import java.util.Arrays;
 
 class ass27 {
