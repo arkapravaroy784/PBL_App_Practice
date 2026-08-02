@@ -1,3 +1,7 @@
+//Write a Java program to print a version of the given array where all the 10's have been removed.
+//• The remaining elements should be shifted to the left.
+//• The empty spaces at the end of the array should be filled with 0.
+//• You may modify the original array or create a new array.
 class ass30 {
     public static void main(String[] args) {
 
