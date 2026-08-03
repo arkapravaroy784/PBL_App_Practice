@@ -1,3 +1,4 @@
+//Given an integer array, print true if every element in the array is either 1 or 4. Otherwise, print false.
 class ass32 {
     public static void main(String[] args) {
 
