@@ -1,4 +1,5 @@
 //Given two integer arrays, a and b, each of length 3, create a new array of length 2 containing the middle element of each array.
+
 class ass33 {
     public static void main(String[] args) {
 
