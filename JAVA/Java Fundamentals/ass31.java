@@ -1,6 +1,7 @@
 //Write a Java program to print an array that contains the same numbers as the given array,but rearranged so that all the even numbers come before all the odd numbers.
 //• The order among even numbers or among odd numbers does not matter.
 //• You may modify the original array or create a new array
+
 class ass31 {
     public static void main(String[] args) {
 
