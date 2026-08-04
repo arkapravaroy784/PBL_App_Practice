@@ -1,3 +1,6 @@
+//Write a Java program to reverse the elements of a given 2×2 array.
+//• Four integer numbers must be passed as command-line arguments.
+//• If fewer than four arguments are passed, print: Please enter 4 integer numbers.
 class ass34 {
     public static void main(String[] args) {
 
