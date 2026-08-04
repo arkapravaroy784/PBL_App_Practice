@@ -1,4 +1,4 @@
-class proj1 {
+class Module_1_Mini_Project {
 
     public static void main(String args[]) {
 
