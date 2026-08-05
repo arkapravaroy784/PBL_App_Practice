@@ -1,3 +1,10 @@
+//A) Create a class Author with the following information: Member Variables: name (String), email (String), gender (char), Use a parameterized constructor to initialize the variables.
+//B) Create a class Book with the following information: Member Variables: name (String), author (Author object), price (double), qtyInStock (int)
+//Assumption: Each book is written by exactly one author.
+//• Use a parameterized constructor to initialize the variables.
+//• Create getters and setters for all member variables. In the main() method:
+//• Create a Book object.
+//• Print all the details of the book (including the author details).
 class Author {
 
     private String name;
