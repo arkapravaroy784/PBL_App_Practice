@@ -1,4 +1,4 @@
-// Create a class Box that uses a parameterized constructor to initialize the dimensions of a box.
+//Create a class Box that uses a parameterized constructor to initialize the dimensions of a box.
 //The dimensions of the box are: Width, Height, Depth
 //The class should have a method that returns the volume of the box.
 //Create an object of the Box class and test the functionalities.
