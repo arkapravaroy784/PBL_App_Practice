@@ -5,6 +5,7 @@
 //• Create getters and setters for all member variables. In the main() method:
 //• Create a Book object.
 //• Print all the details of the book (including the author details).
+
 class Author {
 
     private String name;
