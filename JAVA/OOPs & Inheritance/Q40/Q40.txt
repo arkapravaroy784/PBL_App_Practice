@@ -1,2 +1,3 @@
 Create a base class Fruit with the following attributes: name, taste, size. Create a method called eat() that displays the name of the fruit and its taste.
-Create two child classes, Apple and Orange, that inherit from the Fruit class and override the eat() method to represent the taste of each fruit.
+Create two child classes, Apple and Orange, that inherit from the Fruit class and 
+override the eat() method to represent the taste of each fruit.
