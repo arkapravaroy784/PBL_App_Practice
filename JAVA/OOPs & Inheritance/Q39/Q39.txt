@@ -1,0 +1,9 @@
+Create a class called Person with a member variable name. Save it in a file called Person.java.
+Create a class called Employee that inherits the Person class. The Employee class should
+contain the following data members:
+• annualSalary (double)
+• yearStarted (int)
+• insuranceNumber (String)
+Save this class in a file called Employee.java.
+Your classes should have the necessary constructors and getter/setter methods.
+Create another class called TestEmployee containing the main() method to fully test the classes.
