@@ -1,0 +1,23 @@
+Write a Java program to create a class named Shape. It should contain two methods:
+• draw() – prints "Drawing Shape"
+• erase() – prints "Erasing Shape"
+Create three subclasses:
+• Circle
+• Triangle
+• Square
+Each subclass should override the parent class methods draw() and erase().
+The methods should display the following messages:
+• Circle
+o draw() → "Drawing Circle"
+o erase() → "Erasing Circle"
+• Triangle
+o draw() → "Drawing Triangle"
+o erase() → "Erasing Triangle"
+• Square
+o draw() → "Drawing Square"
+o erase() → "Erasing Square"
+Create objects using polymorphism as follows:
+Shape c = new Circle();
+Shape t = new Triangle();
+Shape s = new Square();
+Call the draw() and erase() methods using each object.
