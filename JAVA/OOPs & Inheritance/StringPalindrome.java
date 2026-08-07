@@ -1,4 +1,5 @@
 //Write a Java program to check whether a given String is a Palindrome or not
+
 import java.util.Scanner;
 
 class StringPalindrome {
