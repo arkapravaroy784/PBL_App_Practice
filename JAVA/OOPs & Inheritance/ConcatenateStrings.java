@@ -1,3 +1,5 @@
+//Write a Java program to concatenate two strings and return the result in lowercase.
+//Note: If the concatenation creates a double character (the last character of the first string is the same as the first character of the second string), then one of the duplicate characters should be omitted.
 import java.util.Scanner;
 
 class ConcatenateStrings {
