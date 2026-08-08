@@ -4,6 +4,7 @@
 //In the main() method:
 //•	Create an object of the Animal class and invoke the eat() and sleep() methods. 
 //•	Create an object of the Bird class and invoke the eat(), sleep(), and fly() methods. 
+
 class Animal {
 
     void eat() {
