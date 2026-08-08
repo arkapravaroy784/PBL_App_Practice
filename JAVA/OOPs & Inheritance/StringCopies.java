@@ -1,3 +1,4 @@
+//Given a string, return a new string made of 'n' copies of the first 2 characters of the original string, where 'n' is the length of the string.
 import java.util.Scanner;
 
 class StringCopies {
