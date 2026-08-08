@@ -1,3 +1,9 @@
+//Create a class named Animal which includes the methods: eat(), sleep() 
+//Create a child class of Animal named Bird and override the parent class methods.
+//Add a new method named: fly() 
+//In the main() method:
+//•	Create an object of the Animal class and invoke the eat() and sleep() methods. 
+//•	Create an object of the Bird class and invoke the eat(), sleep(), and fly() methods. 
 class Animal {
 
     void eat() {
