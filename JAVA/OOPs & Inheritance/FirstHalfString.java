@@ -1,3 +1,4 @@
+//Write a Java program that returns the first half of the string, if the length of the string is even. It should return "null" for an odd-length string.
 import java.util.Scanner;
 
 class FirstHalfString {
