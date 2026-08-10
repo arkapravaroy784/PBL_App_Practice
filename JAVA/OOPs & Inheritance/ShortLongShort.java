@@ -1,3 +1,8 @@
+//Given two strings, a and b, return a new string of the form: short + long + short
+//where the shorter string is placed on the outside and the longer string is placed in the middle.
+//Note:
+//•	The two strings will not be of the same length. 
+//•	The strings may be empty (length = 0).
 import java.util.Scanner;
 
 class ShortLongShort {
