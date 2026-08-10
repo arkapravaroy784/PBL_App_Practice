@@ -1,4 +1,5 @@
 //Write a Java program that accepts a string and returns a new string without the first and last character of the input string.
+
 import java.util.Scanner;
 
 class RemoveFirstLast {
