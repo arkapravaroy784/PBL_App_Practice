@@ -1,4 +1,5 @@
 //Given a string, if the first or last character is 'x', return the string without those 'x' characters. Otherwise, return the string unchanged.
+
 import java.util.Scanner;
 
 class RemoveX {
