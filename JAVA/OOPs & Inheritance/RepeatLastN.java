@@ -1,3 +1,5 @@
+//Given a string and an integer n, print a new string made of n repetitions of the last n characters of the string.
+//You may assume that n is between 0 and the length of the string, inclusive.
 import java.util.Scanner;
 
 class RepeatLastN {
