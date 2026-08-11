@@ -2,6 +2,7 @@
 //•	The * character. 
 //•	The character immediately to the left of *. 
 //•	The character immediately to the right of *.
+
 import java.util.Scanner;
 
 class CombineStrings {
