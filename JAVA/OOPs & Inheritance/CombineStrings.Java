@@ -1,7 +1,10 @@
-//Write a Java program that accepts a string (which contains * in it). The program should return a new string in which the following characters are removed:
-//•	The * character. 
-//•	The character immediately to the left of *. 
-//•	The character immediately to the right of *.
+//Given two strings, a and b, print a new string by combining them as follows:
+//•	First character of a 
+//•	First character of b 
+//•	Second character of a 
+//•	Second character of b 
+//•	and so on... 
+//If one string is longer than the other, append the remaining characters at the end of the result.
 
 import java.util.Scanner;
 
