@@ -5,6 +5,7 @@
 //•	Second character of b 
 //•	and so on... 
 //If one string is longer than the other, append the remaining characters at the end of the result.
+
 import java.util.Scanner;
 
 class CombineStrings {
