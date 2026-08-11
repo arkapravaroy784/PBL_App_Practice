@@ -1,3 +1,7 @@
+//Write a Java program that accepts a string (which contains * in it). The program should return a new string in which the following characters are removed:
+//•	The * character. 
+//•	The character immediately to the left of *. 
+//•	The character immediately to the right of *.
 import java.util.Scanner;
 
 class RemoveStar {
