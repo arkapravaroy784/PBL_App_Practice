@@ -1,6 +1,7 @@
 //Use the Optional class to avoid a NullPointerException from the following code:
 //String names[] = new String[5];
 //System.out.print(names[0].length());
+
 import java.util.Optional;
 
 class OptionalExample {
