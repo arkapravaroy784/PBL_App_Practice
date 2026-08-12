@@ -1,6 +1,7 @@
 //Given two StringJoiner objects s1 and s2 containing city names separated by hyphens (-), display the output for the following cases:
 //1. Merge s1 into s2.
 //2. Merge s2 into s1. 
+
 import java.util.StringJoiner;
 
 class MergeStringJoiner {
