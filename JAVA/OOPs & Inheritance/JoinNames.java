@@ -1,5 +1,6 @@
 //Given an ArrayList containing n names, use StringJoiner to construct a new sequence of
 //names separated by , (comma) and enclosed in { } brackets.
+
 import java.util.ArrayList;
 import java.util.StringJoiner;
 
