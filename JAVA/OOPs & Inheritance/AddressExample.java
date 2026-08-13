@@ -1,4 +1,5 @@
 //Given a String variable address, print the address if it is not null; otherwise, print the default address as "India".
+
 import java.util.Optional;
 
 class AddressExample {
