@@ -1,0 +1,18 @@
+Create an abstract class Compartment to represent a rail coach. Provide an abstract method in this class:
+public abstract String notice(); Derive the following classes from Compartment:
+• FirstClass
+• Ladies
+• General
+• Luggage
+Override the notice() method in each derived class to return a notice message suitable for that specific type of compartment.
+Create a class TestCompartment containing the main() method to perform the following tasks:
+1. Declare an array of Compartment objects of size 10.
+2. Create a compartment object whose type is decided by a randomly generated integer in
+the range 1 to 4:
+o 1 → FirstClass
+o 2 → Ladies
+o 3 → General
+o 4 → Luggage
+3. Store the created object in the array.
+4. Invoke the notice() method for each object in the array and demonstrate runtime polymorphism.
+Note: Since the object type is determined randomly, the first object may be a Luggage compartment, the second a Ladies compartment, the third a FirstClass compartment, and so on.
