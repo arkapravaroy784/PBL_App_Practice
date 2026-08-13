@@ -1,20 +1,6 @@
-package com.wipro.automobile.ship;
+abstract class Compartment {
 
-public class Compartment {
+    // Abstract method
+    public abstract String notice();
 
-    private int height;
-    private int width;
-    private int breadth;
-
-    public Compartment(int height, int width, int breadth) {
-        this.height = height;
-        this.width = width;
-        this.breadth = breadth;
-    }
-
-    public void displayDetails() {
-        System.out.println("Height : " + height);
-        System.out.println("Width  : " + width);
-        System.out.println("Breadth: " + breadth);
-    }
 }
