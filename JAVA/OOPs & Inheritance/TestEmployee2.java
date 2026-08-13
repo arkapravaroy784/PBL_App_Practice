@@ -1,3 +1,5 @@
+// Given an Employee object that may be initialized to null, use the Optional class to check 
+//whether it is null and throw a user-defined exception named InvalidEmployeeException if it is null.
 import java.util.Optional;
 
 // User-defined Exception
