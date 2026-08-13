@@ -1,0 +1,7 @@
+Create a package called test. Inside the package, create a class named Foundation.
+Define four integer variables:
+• var1 → private
+• var2 → default (no access modifier)
+• var3 → protected
+• var4 → public
+Create another class outside the package, import the Foundation class, and try to access all four variables. Observe which variables are accessible and which are not.
