@@ -1,0 +1,25 @@
+Add the following to the previous hands-on:
+• Create the fourwheeler sub-package under automobile.
+• Create a Logan class extending Vehicle.
+o speed() → Returns current speed.
+o gps() → Controls the GPS device.
+• Create a Ford class extending Vehicle.
+o speed() → Returns current speed.
+o tempControl() → Controls the air conditioning.
+• Create objects of the relevant classes and test them.
+Updated Structure
+Module 3
+│
+├── TestVehicle.java
+│
+└── com
+ └── automobile
+ ├── Vehicle.java
+ │
+ ├── twowheeler
+ │ └── Hero.java
+ │
+ └── fourwheeler
+ ├── Honda.java
+ ├── Logan.java
+ └── Ford.java
