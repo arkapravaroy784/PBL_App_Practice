@@ -1,0 +1,17 @@
+Create the following package structure:
+com
+└── automobile
+ ├── Vehicle.java
+ ├── twowheeler
+ │ └── Hero.java
+ └── fourwheeler
+ └── Honda.java
+Requirements:
+1. Create an abstract class Vehicle.
+2. Vehicle contains three abstract methods:
+o getModelName()
+o getRegistrationNumber()
+o getOwnerName()
+3. Create Hero inside the twowheeler package.
+4. Create Honda inside the fourwheeler package.
+5. Create a test class to test all methods
