@@ -4,6 +4,7 @@
 //• Breadth
 //Important: This class should not conflict with the Compartment class created in the previous abstract class exercise. To avoid the conflict, create this class in a new package called:
 //com.wipro.automobile.ship
+
 package com.wipro.automobile.ship;
 
 public class Compartment {
