@@ -1,3 +1,10 @@
+// Create an interface named Test with one abstract method:
+//int myFunction(int a, int b, int c);
+//Create two reference variables:
+//• t1 → Adds three integers.
+//• t2 → Multiplies three integers.
+//Implement both using lambda expressions.
+//Call myFunction() using both references and print the results.
 @FunctionalInterface
 interface Test {
 
