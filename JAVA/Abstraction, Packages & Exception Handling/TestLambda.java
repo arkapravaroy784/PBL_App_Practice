@@ -5,6 +5,7 @@
 //• t2 → Multiplies three integers.
 //Implement both using lambda expressions.
 //Call myFunction() using both references and print the results.
+
 @FunctionalInterface
 interface Test {
 
