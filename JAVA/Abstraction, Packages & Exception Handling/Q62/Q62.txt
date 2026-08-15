@@ -1,0 +1,9 @@
+Create:
+• An interface Playable inside package music
+• A class Veena inside package music.string
+• A class Saxophone inside package music.wind
+• A test class Test inside package live
+The Test class should:
+1. Create a Veena object and call play()
+2. Create a Saxophone object and call play()
+3. Store both objects in a variable of type Playable and call play()
