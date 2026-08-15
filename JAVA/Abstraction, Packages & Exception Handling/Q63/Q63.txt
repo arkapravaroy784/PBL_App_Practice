@@ -1,0 +1,6 @@
+Create:
+1. An interface Vehicle with a default method message() that prints: Inside Vehicle
+2. An interface FourWheeler with a default method message() that prints: Inside FourWheeler
+3. A class Car implementing both interfaces.
+4. Override message() in Car and call the Vehicle interface's message() using the super keyword.
+5. Instantiate Car and call message().
