@@ -7,6 +7,7 @@
 //• ArrayIndexOutOfBoundsException
 //• NumberFormatException
 //using exception handling.
+
 import java.util.Scanner;
 
 public class ExceptionDemo {
