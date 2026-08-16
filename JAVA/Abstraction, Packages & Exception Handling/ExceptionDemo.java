@@ -1,3 +1,12 @@
+//Write a program that:
+//1. Takes the size of an array.
+//2. Reads the array elements.
+//3. Asks the user for an index.
+//4. Prints the element at that index.
+//The program should handle:
+//• ArrayIndexOutOfBoundsException
+//• NumberFormatException
+//using exception handling.
 import java.util.Scanner;
 
 public class ExceptionDemo {
