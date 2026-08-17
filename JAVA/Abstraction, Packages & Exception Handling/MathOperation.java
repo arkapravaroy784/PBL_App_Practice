@@ -1,3 +1,12 @@
+//Write a class MathOperation that:
+//1. Accepts 5 integers through command-line arguments.
+//2. Stores them in an array.
+//3. Finds the sum and average.
+//4. Displays the result.
+//5. Handles possible exceptions:
+//o ArithmeticException
+//o NumberFormatException
+//o any other exception (Exception)
 public class MathOperation {
 
     public static void main(String[] args) {
