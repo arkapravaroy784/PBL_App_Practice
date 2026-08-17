@@ -7,6 +7,7 @@
 //o ArithmeticException
 //o NumberFormatException
 //o any other exception (Exception)
+
 public class MathOperation {
 
     public static void main(String[] args) {
