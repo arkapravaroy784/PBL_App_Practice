@@ -1,0 +1,10 @@
+Write a program that:
+1. Takes details of 2 students.
+2. Takes:
+o Student Name
+o Marks in 3 subjects
+3. Calculates the average.
+4. Handle:
+o NumberFormatException
+o Negative marks (using your own exception)
+o Marks greater than 100 (using your own exception)
