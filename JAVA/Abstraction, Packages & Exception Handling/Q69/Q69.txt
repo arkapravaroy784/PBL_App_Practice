@@ -1,0 +1,6 @@
+Write a program that:
+• Accepts the name and age from the command line.
+• Age must satisfy:
+18 ≤ age < 60
+Otherwise display an appropriate error message.
+Create your own exception class.
