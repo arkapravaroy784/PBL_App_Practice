@@ -1,3 +1,6 @@
+//Write a Java program that reads an integer number (between 1 and 255) from the user andprints the binary representation of the number as an 8-bit string. 
+//If the binary string has fewer than 8 digits, pad it with leading zeros.
+
 import java.util.Scanner;
 
 public class BinaryRepresentation {
