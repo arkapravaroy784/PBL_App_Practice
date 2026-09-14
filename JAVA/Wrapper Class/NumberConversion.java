@@ -1,3 +1,5 @@
+//Write a Java program to receive an integer number as a command line argument, and print the binary, octal, and hexadecimal equivalent of the given number.
+
 public class NumberConversion {
 
     public static void main(String[] args) {
