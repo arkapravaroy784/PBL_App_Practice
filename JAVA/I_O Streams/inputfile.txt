@@ -1,0 +1,65 @@
+Manoj works at Wipro
+Katari works at Wipro
+Sureka works at Wipro
+Harish works at Wipro
+Anitha works at Wipro
+Janani works at Wipro
+Rahul works at Wipro
+Priya works at Wipro
+Amit works at Wipro
+Sneha works at Wipro
+
+Manoj develops Java applications
+Katari develops Python applications
+Sureka develops Java applications
+Harish develops C applications
+Anitha develops Python applications
+Janani develops Java applications
+Rahul develops Java applications
+Priya develops C applications
+Amit develops Python applications
+Sneha develops Java applications
+
+Manoj likes Java
+Katari likes Python
+Sureka likes Java
+Harish likes C
+Anitha likes Python
+Janani likes Java
+Rahul likes Java
+Priya likes C
+Amit likes Python
+Sneha likes Java
+
+Java is a programming language
+Python is a programming language
+C is a programming language
+Java is object oriented
+Python is easy to learn
+C is powerful and fast
+
+Wipro is an IT company
+Wipro provides software solutions
+Wipro develops enterprise applications
+Wipro hires software engineers
+Software engineers develop applications
+Applications require testing
+Testing improves software quality
+
+Students learn Java
+Students learn Python
+Students learn C
+Students practice programming
+Programming improves problem solving
+Problem solving improves coding skills
+
+Java Java Java
+Python Python Python
+C C
+Wipro Wipro Wipro Wipro
+Software Software Software
+Programming Programming Programming
+Applications Applications Applications
+Engineers Engineers Engineers
+Develop Develop Develop
+Learn Learn Learn
