@@ -1,3 +1,5 @@
+// Write a program to copy the contents from one file to another and check the output.
+
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
