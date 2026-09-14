@@ -1,3 +1,5 @@
+//Create an ArrayList that can store only numbers like int, float, double, etc., but not any other data type.
+
 import java.util.ArrayList;
 
 public class NumberArrayList {
