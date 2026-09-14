@@ -1,3 +1,5 @@
+//Write a Java program to create a LinkedList, add all the months of a year, and print them.
+
 import java.util.LinkedList;
 
 public class MonthLinkedList {
