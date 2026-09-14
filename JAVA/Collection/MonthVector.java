@@ -1,3 +1,5 @@
+//Write a Java program to create a Vector, add all the months of a year, and print them.
+
 import java.util.Vector;
 
 public class MonthVector {
