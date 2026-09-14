@@ -1,3 +1,8 @@
+//Write a program to count the number of times a character appears in a file.
+//Note:
+// The character check is case-insensitive.
+// 'a' and 'A' are considered the same.
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
