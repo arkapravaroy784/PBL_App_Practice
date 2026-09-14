@@ -1,52 +1,76 @@
 public class Employee {
 
-    // Private Variables
-    private int id;
-    private String name;
-    private double salary;
+    private int empId;
+    private String empName;
+    private String email;
+    private String gender;
+    private float salary;
+
+    // Default Constructor
+    public Employee() {
+
+    }
 
     // Parameterized Constructor
-    public Employee(int id, String name, double salary) {
+    public Employee(int empId, String empName, String email,
+                    String gender, float salary) {
 
-        this.id = id;
-        this.name = name;
+        this.empId = empId;
+        this.empName = empName;
+        this.email = email;
+        this.gender = gender;
         this.salary = salary;
-
     }
 
-    // Getter Methods
-    public int getId() {
-        return id;
+    // Getters
+    public int getEmpId() {
+        return empId;
     }
 
-    public String getName() {
-        return name;
+    public String getEmpName() {
+        return empName;
     }
 
-    public double getSalary() {
+    public String getEmail() {
+        return email;
+    }
+
+    public String getGender() {
+        return gender;
+    }
+
+    public float getSalary() {
         return salary;
     }
 
-    // Setter Methods
-    public void setId(int id) {
-        this.id = id;
+    // Setters
+    public void setEmpId(int empId) {
+        this.empId = empId;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setEmpName(String empName) {
+        this.empName = empName;
     }
 
-    public void setSalary(double salary) {
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public void setGender(String gender) {
+        this.gender = gender;
+    }
+
+    public void setSalary(float salary) {
         this.salary = salary;
     }
 
-    @Override
-    public String toString() {
+    // Display Employee Details
+    public void GetEmployeeDetails() {
 
-        return "Employee [id=" + id
-                + ", name=" + name
-                + ", salary=" + salary + "]";
-
+        System.out.println("Employee ID   : " + empId);
+        System.out.println("Employee Name : " + empName);
+        System.out.println("Email         : " + email);
+        System.out.println("Gender        : " + gender);
+        System.out.println("Salary        : " + salary);
     }
-
 }
