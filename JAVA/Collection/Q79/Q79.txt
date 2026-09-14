@@ -1,0 +1,33 @@
+Create an application for Employee Management with the following classes:
+a) Create an Employee class with the following attributes and behavior:
+Attributes:
+1. int empId
+2. String empName
+3. String email
+4. String gender
+5. float salary
+Method:
+ void GetEmployeeDetails() → Prints the employee details.
+b) Create another class EmployeeDB with the following attributes and behaviors:
+Attribute:
+ ArrayList<Employee> list
+Methods:
+1. boolean addEmployee(Employee e)
+o Adds the employee object to the collection.
+2. boolean deleteEmployee(int empId)
+o Deletes the employee object from the collection with the given empId.
+3. String showPaySlip(int empId)
+o Returns the pay slip (salary) of the employee with the given empId.
+c) Test the Application
+Provide implementations for all the above methods and write a test program to:
+ Add employee(s) to the collection.
+ Delete an employee using empId.
+ Display the pay slip of an employee using empId.
+ Verify that all methods work correctly.
+
+Structure:
+Employee Management
+│
+├── Employee.java
+├── EmployeeDB.java
+└── EmployeeTest.java
