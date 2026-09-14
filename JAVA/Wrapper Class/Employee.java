@@ -1,3 +1,7 @@
+//Create an Employee class with properties of your choice. Create an object of this class and
+//also create a clone of the same. After making the clone, change the properties of the original
+//employee object and print the properties of both the original and clone objects. Note down your observation.
+
 public class Employee implements Cloneable {
 
     private int empId;
