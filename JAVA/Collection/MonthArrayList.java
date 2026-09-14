@@ -1,3 +1,4 @@
+//Write a Java program to create an ArrayList, add all the months of a year, and print them.
 import java.util.ArrayList;
 
 public class MonthArrayList {
