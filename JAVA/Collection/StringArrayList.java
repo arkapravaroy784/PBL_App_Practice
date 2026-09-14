@@ -1,3 +1,5 @@
+//Create an ArrayList that can store only String objects. Create a printAll() method that prints all the elements of the ArrayList using an Iterator.
+
 import java.util.ArrayList;
 import java.util.Iterator;
 
