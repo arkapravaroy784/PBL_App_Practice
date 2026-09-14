@@ -1,3 +1,8 @@
+//Write a program to count the occurrences of each word in an input file and write the word along with its corresponding count into an output file.
+///Note:
+// Words should be sorted alphabetically in the output file.
+// Hint: Use the Map Collection. 
+
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
