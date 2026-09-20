@@ -1,3 +1,15 @@
+//Develop a Java class with an instance variable H1 (HashSet).
+//Create the following methods:
+//1. HashSet<String> saveCountryNames(String countryName)
+//o Adds the given country name to the HashSet (H1).
+//o Returns the updated HashSet.
+//2. String getCountry(String countryName)
+//o Iterates through the HashSet.
+//o Returns the country name if it exists.
+//o Otherwise returns null.
+//Note: Test both methods using the main() method.
+
+
 import java.util.HashSet;
 import java.util.Iterator;
 
