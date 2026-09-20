@@ -1,3 +1,14 @@
+//Develop a Java class with an instance variable T1 (TreeSet).
+//Create the following methods:
+//1. TreeSet<String> saveCountryNames(String countryName)
+//o Adds the given country name to the TreeSet (T1).
+//o Returns the updated TreeSet.
+//2. String getCountry(String countryName)
+//o Iterates through the TreeSet.
+//o Returns the country name if it exists.
+//o Otherwise returns null.
+//Note: Test both methods using the main() method.
+
 import java.util.Iterator;
 import java.util.TreeSet;
 
