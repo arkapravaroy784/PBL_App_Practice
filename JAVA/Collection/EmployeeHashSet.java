@@ -1,3 +1,5 @@
+//Write a program to store a group of employee names into a HashSet and retrieve the elements one by one using an Iterator.
+
 import java.util.HashSet;
 import java.util.Iterator;
 
