@@ -1,3 +1,8 @@
+//Create a TreeSet capable of storing String objects. Then perform the following operations:
+//a) Reverse the elements of the collection.
+//b) Iterate the elements of the TreeSet using an Iterator.
+//c) Check if a particular element exists or not.
+
 import java.util.Iterator;
 import java.util.TreeSet;
 
