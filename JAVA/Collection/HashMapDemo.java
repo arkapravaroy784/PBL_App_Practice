@@ -1,3 +1,8 @@
+//Create a HashMap capable of storing String objects. The program should have the following abilities:
+//a) Check if a particular key exists or not.
+//b) Check if a particular value exists or not.
+//c) Use an Iterator to loop through the map.
+
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
