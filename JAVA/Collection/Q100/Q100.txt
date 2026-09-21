@@ -1,0 +1,2 @@
+Define your own class with a static method int digitCount(int n) which returns the number of digits in the given input n.
+Define your own functional interface to refer to this static method and invoke it using a method reference to get the number of digits.
