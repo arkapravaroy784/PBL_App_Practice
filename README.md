@@ -1,2 +1,2 @@
 # Practice
-codes &amp; practical notes
+codes &amp; practical notes form Wipro PBL training platform
