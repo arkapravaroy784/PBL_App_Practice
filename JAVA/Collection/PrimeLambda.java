@@ -1,3 +1,5 @@
+//Create an ArrayList a1 and add 25 random numbers. Write a program to print all the prime numbers present in the ArrayList using a lambda expression.
+
 import java.util.ArrayList;
 import java.util.Random;
 
