@@ -1,0 +1,17 @@
+Develop a Java class with an instance variable M1 (Hashtable) and implement the following methods:
+1. Hashtable<String, String> saveCountryCapital(String countryName, String capital)
+o Add the given country as the key and capital as the value to the Hashtable (M1).
+o Return the updated Hashtable.
+2. String getCapital(String countryName)
+o Return the capital of the given country from M1.
+3. String getCountry(String capitalName)
+o Return the country corresponding to the given capital from M1.
+4. Hashtable<String, String> swapKeyValue()
+o Create another Hashtable (M2) where:
+ Key = Capital
+ Value = Country
+o Return M2.
+5. ArrayList<String> toArrayList()
+o Create an ArrayList containing all country names (keys of M1).
+o Return the ArrayList.
+Note: Test all the methods using a main() method.
