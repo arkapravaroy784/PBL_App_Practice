@@ -1,3 +1,5 @@
+//Create an ArrayList a1 and add 10 different words. Write a program to print all the strings whose length is odd using a lambda expression.
+
 import java.util.ArrayList;
 
 public class OddLengthStringLambda {
