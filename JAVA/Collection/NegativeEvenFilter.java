@@ -1,3 +1,8 @@
+//Write a Java program to:
+//1. Filter the negative even numbers from an ArrayList.
+//2. Store them into a new ArrayList.
+//3. Print the new ArrayList elements. 
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
