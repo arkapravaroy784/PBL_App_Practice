@@ -1,0 +1,12 @@
+Create an Employee class with:
+1. Instance variables:
+o empNo
+o name
+o age
+o location
+2. A parameterized constructor to initialize them.
+Write a program to:
+1. Add five Employee objects into an ArrayList.
+2. Filter the employees whose location is Pune.
+3. Store them in a separate ArrayList.
+4. Print their details.
