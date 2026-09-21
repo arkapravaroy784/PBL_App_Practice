@@ -1,0 +1,4 @@
+Define your own class with a parameterized constructor having one integer argument.
+ The constructor should check whether the given number is Prime or Not Prime and display the result.
+ Define your own functional interface to refer to this constructor.
+ Invoke the constructor using a constructor reference to check whether the given number is Prime or Not.
