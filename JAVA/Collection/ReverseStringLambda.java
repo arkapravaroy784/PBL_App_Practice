@@ -1,3 +1,5 @@
+//Create an ArrayList a1 and add 10 different words. Write a program to print all the strings in reverse order using a lambda expression.
+
 import java.util.ArrayList;
 
 public class ReverseStringLambda {
