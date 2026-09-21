@@ -1,3 +1,5 @@
+//Write a program that will have a Properties class object capable of storing some States of India and their Capitals. Use an Iterator to list all the elements stored in the Properties.
+
 import java.util.Iterator;
 import java.util.Map;
 import java.util.Properties;
